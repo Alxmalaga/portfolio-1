@@ -23,9 +23,9 @@
     "react-icons": "^4.4.0",
     "react-infinite-scroll-component": "^6.1.0",
     "react-loading-skeleton": "^3.1.0",
-    "react-markdown": "^8.0.3",
+    "react-markdown": "^9.0.0",
     "react-tsparticles": "^2.3.2",
-    "remark-gfm": "^3.0.1",
+    "remark-gfm": "^4.0.0",
     "swiper": "^8.4.2",
     "tsparticles": "^2.3.2",
     "typewriter-effect": "^2.19.0"
